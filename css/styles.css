@@ -1,1 +1,83 @@
+.parallax1 {
 
+/* The image used */
+  background-image: url("/media/trip1.jpg");
+
+/* Set a specific height */
+  min-height: 700px;
+
+/* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Lobster', cursive;
+  opacity: 0.85;
+}
+
+.parallax2 {
+/* The image used */
+  background-image: url("/media/trip2.jpg");
+
+/* Set a specific height */
+  min-height: 700px;
+
+/* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Open Sans', sans-serif;
+  opacity: 0.85;
+}
+
+.parallax3 {
+/* The image used */
+  background-image: url("/media/trip3.jpg");
+
+/* Set a specific height */
+  min-height: 700px;
+
+/* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.85;
+}
+
+.parallax4 {
+/* The image used */
+  background-image: url("/media/trip4.jpg");
+
+/* Set a specific height */
+  min-height: 700px;
+
+/* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.85;
+}
+
+.parallax5 {
+  /* The image used */
+  background-image: url("/media/trip5.jpg");
+
+  /* Set a specific height */
+  min-height: 700px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.85;
+}
+
+.footer {
+  background-color: crimson;
+  min-height: 300px;
+  opacity: 0.85;
+}
